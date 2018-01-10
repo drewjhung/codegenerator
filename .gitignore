@@ -1,0 +1,3 @@
+codegenerator/**/*.iml
+codegenerator/**/target
+codegenerator/**/src/main/resources/rebel.xml
